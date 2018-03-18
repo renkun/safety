@@ -1,0 +1,18 @@
+{
+  "name": "safety",
+  "productName": "Safety",
+  "version": "0.1.0",
+  "description": "The safety node module",
+  "main": "./safety.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Ren Kun<ren_kun@126.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renkun/safety.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renkun/safety/issues"
+  }
+}
